@@ -1,2 +1,2 @@
-# surge
-SRGX Surge BETA
+# SRGX Surge
+Surge Is A Better Version Of SRGX
